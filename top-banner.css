@@ -1,0 +1,25 @@
+body {background-color: white;}
+
+.top-banner-parent 
+{ 
+    height: 170px;
+    width: 1800px;
+    font-size: 35px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: inline-block;
+    background-color: #013340;
+}
+
+.top-banner-child1 { 
+  position: absolute;
+  top: 50px;
+  left: 50px;
+} 
+
+.top-banner-child2 { 
+  position: absolute;
+  top: 20px;
+  left: 650px;
+} 
